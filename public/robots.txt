@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://zftech-28330474.zappy5.app/sitemap.xml

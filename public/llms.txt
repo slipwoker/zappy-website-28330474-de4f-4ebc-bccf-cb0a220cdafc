@@ -1,0 +1,57 @@
+# zftech — Generative Engine Optimization Map
+
+> A תקשורת, וידאו, אודיו, broadcast business.
+
+---
+
+## Pages
+
+### דף הבית
+https://zftech-28330474.zappy5.app
+גלו שירותי ניהול פרויקטים מקצועיים לתעשיית הברודקאסט והבטחון. צור קשר עוד היום לייעוץ חינם!
+
+### שירותים
+https://zftech-28330474.zappy5.app/services
+שירותי ניהול פרויקטים, תכנון מערכות וידאו ואודיו מקצועיות וייעוץ תקשורת מקצועי לתעשיית הבטחון והאקדמיה.
+
+### אודות
+https://zftech-28330474.zappy5.app/about
+למד עוד על zftech - מומחים בניהול פרויקטים ותכנון מערכות וידאו ואודיו מקצועיות לתעשיית הבטחון והאקדמיה.
+
+### צור קשר
+https://zftech-28330474.zappy5.app/contact
+צור קשר עם zftech לייעוץ מקצועי בניהול פרויקטים ותכנון מערכות תקשורת. נשמח לעזור לך להצליח!
+
+## Legal & Policy
+
+### Privacy Policy
+https://zftech-28330474.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://zftech-28330474.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://zftech-28330474.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About zftech
+zftech is a business in the תקשורת, וידאו, אודיו, broadcast industry.
+
+## Target Audience
+תעשיית הברודקאסט, הבטחון והאקדמיה
+
+## Industry
+תקשורת, וידאו, אודיו, broadcast
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://zftech-28330474.zappy5.app/sitemap.xml
+- **Robots.txt**: https://zftech-28330474.zappy5.app/robots.txt
